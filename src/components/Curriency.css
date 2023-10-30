@@ -1,0 +1,13 @@
+.currency {
+    background-color: greenyellow;
+    border: 1px solid green;
+}
+
+.currency select {
+    width: 100%;
+}
+
+.currency select option {
+    text-indent: 10px;
+    background-color: greenyellow;
+}
